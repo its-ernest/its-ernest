@@ -97,14 +97,7 @@ Here are some ideas to get you started:
 
 ### 📊 Vital Signs
 <table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=its-ernest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ernest&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
+  
   <tr>
     <td colspan="2">
       <img src="https://streak-stats.demolab.com/?user=its-ernest&theme=tokyonight&hide_border=true" width="100%" />
