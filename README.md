@@ -13,45 +13,90 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Ernest (@its-ernest)
-
-### 🛠 System Architect & Software Engineer
-I build high-performance infrastructure, security tools, and developer utilities. My philosophy is simple: write code that scales, stays secure, and stays out of the way.
+# 👋 I'm Ernest (@its-ernest)
+**Software Engineer | System Architect | Gopher**
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Top Projects
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <h4>echox</h4>
+        <p>Enterprise middleware for Echo v5 with built-in idempotency.</p>
+        <a href="https://github.com/its-ernest/echox">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
+        </a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Wails-red?style=for-the-badge&logo=go&logoColor=white" />
+        <h4>Cura</h4>
+        <p>System resource enforcer utility built with Go & React.</p>
+        <a href="https://github.com/its-ernest/cura">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
+        </a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <h4>The Stack</h4>
+        <p>Mesh-networked file sync and project management tool.</p>
+        <a href="https://github.com/its-ernest">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[echox](https://github.com/its-ernest/echox)** | Enterprise-grade middleware extension for Echo v5. | `Go` | ![v0.1.x](https://img.shields.io/badge/version-0.1.x-blue) |
-| **[Cura](https://github.com/its-ernest/cura)** | System resource enforcer & monitoring utility. | `Go` `Wails` `React` | ![v0.1.9](https://img.shields.io/badge/release-v0.1.9-green) |
-| **The Stack** | Collaborative project manager with WebSocket mesh networking. | `React` `Express` | `Internal` |
+<div align="center">
+  <br />
+  <a href="https://github.com/its-ernest?tab=repositories">
+    <img src="https://img.shields.io/badge/📊_VIEW_ALL_REPOSITORIES-black?style=for-the-badge" />
+  </a>
+</div>
 
 ---
 
-### 📊 Open Source Activity
+### 🌲 Contribution Activity
+<table border="0">
+  <tr>
+    <td>
+      <b>Latest Pull Request</b><br />
+      <sub>Feature: Cache layer for echox</sub>
+    </td>
+    <td>
+      <a href="https://github.com/its-ernest/echox/pulls">
+        <img src="https://img.shields.io/badge/Status-Merged-purple?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>System Fix</b><br />
+      <sub>Cura v0.1.9: Self-evolving update engine</sub>
+    </td>
+    <td>
+      <a href="https://github.com/its-ernest/cura/releases">
+        <img src="https://img.shields.io/badge/Status-Fixed-green?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=its-ernest&show_icons=true&theme=tokyonight&hide_border=true" alt="Ernest's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ernest&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<div align="right">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aits-ernest"><i>View all contributions →</i></a>
+</div>
+
+---
+
+### 📊 Vital Signs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-ernest&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ernest&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
 </p>
-
-#### 🌲 Contribution Stream
-- **Open PRs:** [Check active proposals](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Aits-ernest)
-- **Merged/Fixed:** [View contributions](https://github.com/pulls?q=is%3Apr+author%3Aits-ernest+is%3Amerged)
-
----
-
-### 🧰 Tech Stack & Environment
-
-- **Languages:** `Go`, `TypeScript`, `SQL`, `Python`
-- **Environments:** `Arch Linux` (Main), `Windows` (Dev/Testing)
-- **Frameworks:** `Echo`, `React`, `Wails`, `Express`
-- **Interests:** Supervised Learning, Financial Markets, System Security
-
----
-
-### 📫 Let's Connect
-- **GitHub:** [its-ernest](https://github.com/its-ernest)
-- **Latest Work:** Check the `GopherBudget` roadmap for updates on synthetic data generation.
