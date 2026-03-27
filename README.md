@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 I'm Ernest (@its-ernest)
-**Software Engineer | System Architect | Gopher**
+**Backend Engineer | Software Engineer | ML Enthusiast | System Architect | Gopher**
 
 ---
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <div align="center">
         <img src="https://img.shields.io/badge/Wails-red?style=for-the-badge&logo=go&logoColor=white" />
         <h4>Cura</h4>
-        <p>System resource enforcer utility built with Go & React.</p>
+        <p>System performance booster and resource enforcer utility built with Go & React.</p>
         <a href="https://github.com/its-ernest/cura">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
         </a>
@@ -63,16 +63,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌲 Contribution Activity
+### 🔨 Contribution Activity
 <table border="0">
   <tr>
     <td>
       <b>Latest Pull Request</b><br />
-      <sub>Feature: Cache layer for echox</sub>
+      <sub>Feature: Improved Echo's runtime performance (SkipMiddlewareO on 404)</sub>
     </td>
     <td>
-      <a href="https://github.com/its-ernest/echox/pulls">
-        <img src="https://img.shields.io/badge/Status-Merged-purple?style=flat-square" />
+      <a href="https://github.com/labstack/echo/pull/2910">
+        <img src="https://img.shields.io/badge/Status-Unmerged-orange?style=flat-square" />
       </a>
     </td>
   </tr>
@@ -96,7 +96,18 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 Vital Signs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-ernest&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ernest&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=its-ernest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ernest&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=its-ernest&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
