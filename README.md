@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Top Projects
+### Top Projects
 <table border="0">
   <tr>
     <td width="33%" valign="top">
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔨 Contribution Activity
+### Contribution Activity
 <table border="0">
   <tr>
     <td>
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Vital Signs
+### Vital Signs
 <table border="0">
   
   <tr>
