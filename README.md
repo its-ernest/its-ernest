@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <b>Latest Pull Request</b><br />
-      <sub>Feature: Improved Echo's runtime performance (SkipMiddlewareO on 404)</sub>
+      <sub>Feature: Improved Echo's runtime performance (e.SkipMiddlewareOn404)</sub>
     </td>
     <td>
       <a href="https://github.com/labstack/echo/pull/2910">
