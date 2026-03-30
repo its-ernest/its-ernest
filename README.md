@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <a href="https://github.com/labstack/echo/pull/2910">
-        <img src="https://img.shields.io/badge/Status-Unmerged-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Closed-red?style=flat-square" />
       </a>
     </td>
   </tr>
