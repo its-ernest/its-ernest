@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         <h4>Rundown Workers</h4>
         <p>A lightweight workflow executor designed for backends that need reliable step-by-step execution with persistent state</p>
-        <a href="https://github.com/its-ernest/rundown-worker">
+        <a href="https://github.com/its-ernest/rundown-workers">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
         </a>
       </div>
