@@ -43,10 +43,10 @@ Here are some ideas to get you started:
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <h4>The Stack</h4>
-        <p>Mesh-networked file sync and project management tool.</p>
-        <a href="https://github.com/its-ernest">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <h4>Rundown Worker</h4>
+        <p>A lightweight, durable workflow executor designed for backend systems that need reliable step-by-step execution with persistent state without heavy infrastructure.</p>
+        <a href="https://github.com/its-ernest/rundown-worker">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
         </a>
       </div>
