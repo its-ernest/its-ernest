@@ -68,6 +68,17 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <b>Latest Pull Request</b><br />
+      <sub>Module: Added API abuse detection middleware to `echox` suite</sub>
+    </td>
+    <td>
+      <a href="https://github.com/labstack/echo/pull/2910">
+        <img src="https://img.shields.io/badge/Status-Passed-green?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Previous PR</b><br />
       <sub>Feature: Improved Echo's runtime performance (e.SkipMiddlewareOn404)</sub>
     </td>
     <td>
