@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <td>
-      <b>Latest Pull Request</b><br />
+      <b>Smart API abuse detection</b><br />
       <sub>Module: Added API abuse detection middleware to `echox` suite</sub>
     </td>
     <td>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <b>Previous PR</b><br />
+      <b>PR contribution to labstack/echo</b><br />
       <sub>Feature: Improved Echo's runtime performance (e.SkipMiddlewareOn404)</sub>
     </td>
     <td>
