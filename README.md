@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <b>Add Python and Go SDK support</b><br />
-      <sub>Module: added Go SDK and python package([`rundown-workers`](https://pypi.org/project/rundown-workers/)) support to [`rundown-workers`](github.com/its-ernest/rundown-workers)</sub>
+      <sub>Module: added Go SDK and python package(<a href="https://pypi.org/project/rundown-workers">`rundown-workers`</a>) support to <a href="github.com/its-ernest/rundown-workers">`rundown-workers`</a></sub>
     </td>
     <td>
       <a href="https://github.com/labstack/echo/pull/2910">
