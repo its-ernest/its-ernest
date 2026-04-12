@@ -67,6 +67,17 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <td>
+      <b>Add smart feature</b><br />
+      <sub>Cura v0.5.0: You can now create custom routine</sub>
+    </td>
+    <td>
+      <a href="https://github.com/its-ernest/cura/releases">
+        <img src="https://img.shields.io/badge/Status-Fixed-green?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b>Add Python and Go SDK support</b><br />
       <sub>Module: added Go SDK and python package(<a href="https://pypi.org/project/rundown-workers">`rundown-workers`</a>) support to <a href="github.com/its-ernest/rundown-workers">`rundown-workers`</a></sub>
     </td>
@@ -95,17 +106,6 @@ Here are some ideas to get you started:
     <td>
       <a href="https://github.com/labstack/echo/pull/2910">
         <img src="https://img.shields.io/badge/Status-Closed-red?style=flat-square" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>System Fix</b><br />
-      <sub>Cura v0.1.9: Self-evolving update engine</sub>
-    </td>
-    <td>
-      <a href="https://github.com/its-ernest/cura/releases">
-        <img src="https://img.shields.io/badge/Status-Fixed-green?style=flat-square" />
       </a>
     </td>
   </tr>
