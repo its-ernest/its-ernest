@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <td width="33%" valign="top">
       <div align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-        <h4>echox</h4>
+        <h4>LurkerX</h4>
         <p>Improve codebase for LurkerX open-source tool.</p>
         <a href="https://github.com/the-hollowclan/LurkerX">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <td width="33%" valign="top">
       <div align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-        <h4>LurkerX</h4>
+        <h4>echox</h4>
         <p>Enterprise middleware for Echo v5 with built-in idempotency.</p>
         <a href="https://github.com/its-ernest/echox">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
