@@ -25,6 +25,16 @@ Here are some ideas to get you started:
       <div align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         <h4>echox</h4>
+        <p>Improve codebase for LurkerX open-source tool.</p>
+        <a href="https://github.com/the-hollowclan/LurkerX">
+          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
+        </a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <h4>echox</h4>
         <p>Enterprise middleware for Echo v5 with built-in idempotency.</p>
         <a href="https://github.com/its-ernest/echox">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
@@ -37,16 +47,6 @@ Here are some ideas to get you started:
         <h4>Cura</h4>
         <p>System performance booster and resource enforcer utility built with Go & React.</p>
         <a href="https://github.com/its-ernest/cura">
-          <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
-        </a>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-        <h4>Rundown Workers</h4>
-        <p>A lightweight workflow executor designed for backends that need reliable step-by-step execution with persistent state</p>
-        <a href="https://github.com/its-ernest/rundown-workers">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
         </a>
       </div>
