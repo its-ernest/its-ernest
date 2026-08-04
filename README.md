@@ -43,9 +43,9 @@ Here are some ideas to get you started:
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/Wails-red?style=for-the-badge&logo=go&logoColor=white" />
-        <h4>Cura</h4>
-        <p>System performance booster and resource enforcer utility built with Go & React.</p>
+        <img src="https://img.shields.io/badge/SweetJuice-yellow?style=for-the-badge&logo=go&logoColor=white" />
+        <h4>SweetJuice</h4>
+        <p>Mobile app development framework in Go. Draw from native components</p>
         <a href="https://github.com/its-ernest/cura">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=flat-square" />
         </a>
