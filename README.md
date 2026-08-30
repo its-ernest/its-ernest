@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 I'm Ernest (@its-ernest)
-**Backend Engineer | Software Engineer | ML Enthusiast | System Architect | Gopher**
+**<!--Backend Engineer | Software Engineer | ML Enthusiast | System Architect |--> Gopher**
 
 ---
 
@@ -78,11 +78,11 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <b>Add Python and Go SDK support</b><br />
-      <sub>Module: added Go SDK and python package(<a href="https://pypi.org/project/rundown-workers">`rundown-workers`</a>) support to <a href="github.com/its-ernest/rundown-workers">`rundown-workers`</a></sub>
+      <b>Convert 8cracker WiFi cracker into a TUI program</b><br />
+      <sub>Update: Port to Go for zero runtime dependencies. (<a href="https://github.com/the-hollowclan/8cracker">`See 8cracker`</a>)</sub>
     </td>
     <td>
-      <a href="https://github.com/labstack/echo/pull/2910">
+      <a href="0">
         <img src="https://img.shields.io/badge/Status-Passed-green?style=flat-square" />
       </a>
     </td>
