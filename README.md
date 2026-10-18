@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <div align="center">
   <br />
   <a href="https://github.com/its-ernest?tab=repositories">
-    <img src="https://img.shields.io/badge/📊_VIEW_ALL_REPOSITORIES-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📊_VIEW_ALL_REPOSITORIES-green?style=for-the-badge" />
   </a>
 </div>
 
@@ -67,12 +67,12 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <td>
-      <b>Add smart feature</b><br />
-      <sub>Cura v0.5.0: You can now create custom routine</sub>
+      <b>Fix typos and report buggy server response in Microsoft Authentication Library(msal)</b><br />
+      <sub>Accurate fixes with no reduction in functional impact</sub>
     </td>
     <td>
-      <a href="https://github.com/its-ernest/cura/releases">
-        <img src="https://img.shields.io/badge/Status-Fixed-green?style=flat-square" />
+      <a href="https://github.com/AzureAD/microsoft-authentication-library-for-python/pull/972">
+        <img src="https://img.shields.io/badge/Status-Open-cyan?style=flat-square" />
       </a>
     </td>
   </tr>
