@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 I'm Ernest (@its-ernest)
+# I'm Ernest (@its-ernest)
 **<!--Backend Engineer | Software Engineer | ML Enthusiast | System Architect |--> Gopher**
 
 ---
