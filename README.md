@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <a href="https://github.com/AzureAD/microsoft-authentication-library-for-python/pull/972">
-        <img src="https://img.shields.io/badge/Status-Open-cyan?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Approved-green?style=flat-square" />
       </a>
     </td>
   </tr>
